@@ -18,7 +18,7 @@ Além da faculdade, me inscrevi em alguns cursos online para expandir meus conhe
   
 ## 🛠️ Tecnologias e ferramentas
 
-Python — fundamentos e desenvolvimento de pequenos programas. Ainda estou aprendendo de forma totalmente autônoma.
+Python: estudando fundamentos da linguagem e desenvolvendo pequenos programas para praticar lógica de programação.
 
 Portugol / Visualg — lógica de programação e algoritmos.
 

@@ -29,6 +29,6 @@ Visual Studio Code — ambiente de desenvolvimento.
 
 ## 📂 Projeto em destaque
 
-Projetos-fatec
+[Projetos-fatec](https://github.com/JoaoPedroLG/Projetos-fatec)
 
 Repositório acadêmico no qual documento meus exercícios de lógica de programação que são aplicados em sala de aula, e também faço esses mesmos exercícios em Python.
